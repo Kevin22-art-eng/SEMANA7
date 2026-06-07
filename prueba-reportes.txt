@@ -1,0 +1,9 @@
+Al consultar GET /reportes en el servidor, se obtiene un listado en formato JSON con los reportes registrados. Cada reporte incluye un id, un tipo y una descripción. Ejemplo:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
